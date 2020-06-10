@@ -1,0 +1,6 @@
+https://unacceptablegit.github.io/-VacPL/
+
+width=5% 하면 비율로 잡힘
+
+부모가 비율로 잡아놓으면
+자식이 픽셀로 잡으면 부모가 픽셀 크기 이하로 안줄어듬
